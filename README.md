@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

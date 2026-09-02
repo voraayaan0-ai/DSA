@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/voraayaan0-ai/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/voraayaan0-ai/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/voraayaan0-ai/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -59,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

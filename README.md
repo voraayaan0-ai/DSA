@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/voraayaan0-ai/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/voraayaan0-ai/DSA/tree/master/0724-find-pivot-index) |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |

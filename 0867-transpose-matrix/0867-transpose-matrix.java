@@ -1,22 +1,16 @@
 class Solution {
     public int[][] transpose(int[][] matrix) {
-       if(matrix == null || matrix.length == 0){
-        return new int[0][0];
-       }
-       //for original array
-       int totalRows = matrix.length;
-       int totalCols = matrix[0].length;
-       //for new array
-       int NewtotalRow = matrix[0].length;
-       int NewtotalCol = matrix.length;
-       int ans [][] = new int[NewtotalRow][NewtotalCol];
-
-       //Actual logic
-       for(int i = 0; i<totalRows; i++){
-        for(int j = 0; j<totalCols; j++){
-            ans[j][i] = matrix[i][j];
+        if(matrix == null || matrix.length == 0 ){
+            return new int[0][0];
         }
-       }
-       return ans;
+            int m = matrix.length;
+            int n = matrix[0].length;
+            int ans[][] = new int[n][m];
+            for(int i = 0; i<m; i++){
+                for(int j = 0; j<n; j++){
+                    ans[j][i] = matrix[i][j];
+                }
+            }
+            return ans;
+        }
     }
-}

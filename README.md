@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/voraayaan0-ai/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0867-transpose-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/voraayaan0-ai/DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/voraayaan0-ai/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/voraayaan0-ai/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/voraayaan0-ai/DSA/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/voraayaan0-ai/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |

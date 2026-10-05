@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/voraayaan0-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/voraayaan0-ai/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/voraayaan0-ai/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/voraayaan0-ai/DSA/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/voraayaan0-ai/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->

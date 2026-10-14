@@ -8,6 +8,12 @@ class Solution {
         return true;
     }
     public boolean checkInclusion(String s1, String s2) {
+        //algo
+        //basic check if s1 charcater is present or not in s2 
+        //s1 table creation
+        //s2 table creation
+        //s2 comparision
+
         if(s1.length() > s2.length()){
             return false;
         }
@@ -16,12 +22,14 @@ class Solution {
             char ch = s1.charAt(i);
             int index = ch - 'a';
             count1[index]++;
-        } 
+        }
+
+
         int i = 0;
         int wl = s1.length();
         int count2[] = new int[26];
         for(i = 0; i<wl; i++){
-             char ch = s2.charAt(i);
+            char ch = s2.charAt(i);
             int index = ch - 'a';
             count2[index]++;
         }
@@ -30,21 +38,20 @@ class Solution {
         }
         else{
             while(i < s2.length()){
-                char newchar = s2.charAt(i);
-                int nci = newchar - 'a';
-                count2[nci]++;
-                int oci = i - wl;
-                char oc = s2.charAt(oci);
-                int fti = oc - 'a';
+                char newChar = s2.charAt(i);
+                int newCharIndex = newChar - 'a';
+                count2[newCharIndex]++;
+                int oldCharIndex = i - wl;
+                char oldchar = s2.charAt(oldCharIndex);
+                int fti = oldchar - 'a';
                 count2[fti]--;
-                if(cf(count1 , count2) == true)
+                if(cf(count1 , count2) == true){
                     return true;
-                   
+                }
+                    i++;
                 
- i++;
             }
         }
-        
         return false;
     }
 }

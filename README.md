@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/voraayaan0-ai/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/voraayaan0-ai/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/voraayaan0-ai/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/voraayaan0-ai/DSA/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/voraayaan0-ai/DSA/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/voraayaan0-ai/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/voraayaan0-ai/DSA/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/voraayaan0-ai/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/voraayaan0-ai/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
